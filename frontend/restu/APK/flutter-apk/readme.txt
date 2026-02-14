@@ -1,0 +1,1 @@
+Original Build File :  ----- >  Built build\app\outputs\flutter-apk\app-release.apk (19.7MB).
