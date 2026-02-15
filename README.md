@@ -3,6 +3,7 @@
 RESTU is a mobile restaurant ordering application that allows users to register, log in, browse menu items, add products to favorites, manage their cart, and place orders.
 
 The application provides a simple and user-friendly interface for customers to explore food categories such as burgers, pizza, and sandwiches.
+You can see sample visuals of the app here: [Download Project PDF](docs/presentation.pdf)
 
 🔐 Authentication
 
